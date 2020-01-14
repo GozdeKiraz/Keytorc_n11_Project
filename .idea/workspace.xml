@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +25,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1WNZR9aWaUN9V4nXI2rA2GG25Mf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,6 +42,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -81,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578992001792</updated>
       <workItem from="1578992008921" duration="42000" />
-      <workItem from="1578992089538" duration="8813000" />
+      <workItem from="1578992089538" duration="18414000" />
     </task>
     <servers />
   </component>
@@ -93,21 +98,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578999981693" />
-    <state width="1323" height="81" key="GridCell.Tab.0.bottom" timestamp="1578999680170">
+    <state width="1323" height="81" key="GridCell.Tab.0.bottom" timestamp="1579028885599">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="81" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578999680170" />
-    <state width="1323" height="81" key="GridCell.Tab.0.center" timestamp="1578999680170">
+    <state width="1323" height="81" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579028885599" />
+    <state width="1323" height="81" key="GridCell.Tab.0.center" timestamp="1579028885598">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="81" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578999680169" />
-    <state width="1323" height="81" key="GridCell.Tab.0.left" timestamp="1578999680169">
+    <state width="1323" height="81" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579028885598" />
+    <state width="1323" height="81" key="GridCell.Tab.0.left" timestamp="1579028885597">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="81" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578999680169" />
-    <state width="1323" height="81" key="GridCell.Tab.0.right" timestamp="1578999680170">
+    <state width="1323" height="81" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579028885597" />
+    <state width="1323" height="81" key="GridCell.Tab.0.right" timestamp="1579028885598">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="81" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578999680170" />
+    <state width="1323" height="81" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579028885598" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1579011251357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579011251357" />
   </component>
 </project>
